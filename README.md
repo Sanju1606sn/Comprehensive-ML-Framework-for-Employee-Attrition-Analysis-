@@ -1,4 +1,4 @@
-# Employee-Attrition-Analysis-using-ML-Techniques-
+# Comprehensive ML Framework for Employee Attrition Analysis 
 
 ## Breif Summary
 **1.Preprocessed the data by Removing Skewness & performed dimensionality reduction using Principal Component Analysis**  
